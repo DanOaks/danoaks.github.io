@@ -178,7 +178,7 @@ li a:hover {
 
 /* Story of the band */
 
-.BandStoryHeader {
+.GOStory {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -209,7 +209,7 @@ li a:hover {
 
 /* Meet the band */
 
-.MeetTheBandHeader {
+.GOBand {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -321,7 +321,7 @@ li a:hover {
 
 /* Bookings */
 
-.BookingsHeader {
+.GOBooking {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -357,7 +357,7 @@ li a:hover {
 
 /* Gigs & more */
 
-.GigsHeader {
+.GOGigs {
     display: flex;
     justify-content: center;
     align-items: center;
